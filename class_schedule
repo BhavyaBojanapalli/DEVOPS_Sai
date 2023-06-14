@@ -1,0 +1,45 @@
+1. What is DevOps and Why DevOps.
+2. SDLC (Software Development Life Cycle)
+3. Complete Understanding of Build Process
+4. CICD - 101 (Basics)
+5. CICD - Introduction to various CICD tools
+6. CICD - Build Live Projects using Jenkins
+7. CICD - Build Live Projects using GITLAB
+8. CICD - Conclusion (Q/A, Interactive Session)
+----------------------
+python
+----------------------
+9. Introduction to the world of Containers
+10. Docker 101 (Basics)
+11. Docker Build Live Projects
+12. Docker Conclusion (Q/A, Interactive Session)
+------------------------------
+13. Kubernetes 101
+14. Kubernetes Installation and Set-up
+15. Kubernetes - Deep dive into Pods, Deployment and Services
+16. Kubernetes Advanced - Service Account, RBAC, Ingress
+17. Kubernetes - Build Live Projects (1-3)
+18. Kubernetes - Build Live Projects  (4-5)
+19. Kubernetes Conclusion (Q/A, Interactive Session)
+-------------------------------
+20. Introduction to PAAS, IAAS, SAAS (More focus on PAAS and IAAS)
+21. AWS, Azure 101 (Basics)
+22. AWS, Azure (Private, Public and Hybrid Clouds)
+22. AWS, Azure - Introduction to all the services
+23. AWS - EC2, EBS, Elastic IP, Lambda Functions, VPC and more
+23. AWS, Azure - CICD
+24. AKS - Amazon Kubernetes service.
+25. AKS Vs ECS
+26. AWS,Azure Conclusion (Q/A, Interactive Session)
+27. Q/A day (Ask Anything we learnt)
+------------------------------------
+28. Configuration Management 101
+29. Ansible - Basics, Set-up
+30. Ansible - Build Live Projects
+------------------------
+31. Terraform 101
+32. Terraform - Basics, Setup, Build Live Project
+---------------------
+33. SCM - Git 101 
+34. Introduction to GitHub, Gitlab
+36. Internal Tracking tools 101 (Jira)
